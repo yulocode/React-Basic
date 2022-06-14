@@ -8,4 +8,4 @@ import BomDia from './componentes/BomDia'
 
 
 
-ReactDom.render(<BomDia nome="Yulo" idade={10} />, document.getElementById('root'))
+ReactDom.render(<BomDia nome="humilde" idade={10} />, document.getElementById('root'))
